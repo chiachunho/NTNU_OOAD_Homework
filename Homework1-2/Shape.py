@@ -1,3 +1,4 @@
+# Abstract Class
 class Shape(object):
     def __init__(self, x: int, y: int, z: int):
         self.x = x
